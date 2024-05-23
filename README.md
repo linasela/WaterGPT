@@ -32,7 +32,11 @@ Upload the [pipes and junctions files](data)
 
 > **ChatGPT:** *the contents of the zip files are as follows: ...These files are components of shapefiles typically used in geographic information systems (GIS) for mapping and spatial analysis. Would you like to explore the data within these files further? ​.*
 
+> **User:** *...*.
 
+> **ChatGPT:** *...*
+
+> <img src="data/FIS_output1.png" alt="output1" width="500" height="300">
 
 
 <!-- 
