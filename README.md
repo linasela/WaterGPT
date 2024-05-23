@@ -11,11 +11,11 @@ Upload the [flow excel file](data)
 
 > **ChatGPT:** *Here is the plot of the flow data over time based on the provided dataset.*
 
-> ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](data/Picture1.png)
+> ![output1](data/flow_missing_data_output1.png)
 
 > **User:** fill in the missing flow data based on the daily pattern, plot again, and indicate the filled in data using red color
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](data/Picture1.png)
+![output2](data/flow_missing_data_output1.png)
 <!-- 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
