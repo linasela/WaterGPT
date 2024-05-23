@@ -5,5 +5,5 @@ Example 1 - Missing data imputation
 -----------
 ::
 
-   This is a gray box with some text inside it.
+This is a gray box with some text inside it.
 
