@@ -24,6 +24,11 @@ Upload the [flow excel file](data)
 Example 2 - Importing, processing, and visualizing asset data
 -----------
 
+Upload the [pipes and junctions files](data)
+
+> **User:** *plot the attached data*.
+
+> **ChatGPT:** *Here is the plot of the flow data over time based on the provided dataset.*
 <!-- 
 
 Upload the [flow excel file](data)
