@@ -13,6 +13,8 @@ Upload the [flow excel file](data)
 
 
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](data)
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
