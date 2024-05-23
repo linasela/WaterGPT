@@ -1,5 +1,6 @@
 # WaterGPT
 examples for AI use in water operations
 
-Example 1
+Example 1 - Missing data imputation
 -----------
+> This is a gray box with some text inside it.
