@@ -36,7 +36,7 @@ Upload the [pipes and junctions files](data)
 
 > **ChatGPT:** *...*
 
-> <img src="data/FIS_output1.png" alt="output1" width="500" height="300">
+> <img src="data/GIS_output1.png" alt="output1" width="700" height="300">
 
 
 <!-- 
