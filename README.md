@@ -6,7 +6,7 @@ Example 1 - Missing data imputation
 -----------
 
 > [!NOTE]
-> Upload the flow excel file 
+> Upload the [flow excel file](data/flow_missing_data.xlsx)
 
 > User: *plot the attached data*
 
