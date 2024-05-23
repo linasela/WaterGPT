@@ -15,6 +15,8 @@ Upload the [flow excel file](data)
 
 > **User:** fill in the missing flow data based on the daily pattern, plot again, and indicate the filled in data using red color
 
+> **ChatGPT:** *Here is the updated plot showing the flow data over time, with missing values filled based on the daily pattern.* 
+
 > <img src="data/flow_missing_data_output2.png" alt="output1" width="500" height="300">
 
 
