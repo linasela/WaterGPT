@@ -7,15 +7,18 @@ Example 1 - Missing data imputation
 
 Upload the [flow excel file](data)
 
-> **User:** *plot the attached data*. 
+> **User:** *plot the attached data*.
+
+
 
 > **ChatGPT:** *Here is the plot of the flow data over time based on the provided dataset.*
 
-> ![output1](data/flow_missing_data_output1.png)
+> <img src="data/flow_missing_data_output1.png" alt="output1" width="500" height="300">
 
 > **User:** fill in the missing flow data based on the daily pattern, plot again, and indicate the filled in data using red color
 
-![output2](data/flow_missing_data_output2.png)
+> <img src="data/flow_missing_data_output2.png" alt="output1" width="500" height="300">
+
 <!-- 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
