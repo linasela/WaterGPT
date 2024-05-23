@@ -22,6 +22,8 @@ Upload the [flow excel file](data)
 Example 2 - Importing, processing, and visualizing asset data
 -----------
 
+<!-- 
+
 Upload the [flow excel file](data)
 
 > **User:** *plot the attached data*.
@@ -34,8 +36,7 @@ Upload the [flow excel file](data)
 
 > <img src="data/flow_missing_data_output2.png" alt="output1" width="500" height="300">
 
-
-
+-->
 
 
 
