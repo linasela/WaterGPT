@@ -2,7 +2,7 @@
 # WaterGPT
 examples for AI use in water operations.
 > [!NOTE]
-> Using ChatGPT4. The responses and not deterministic and you might need to adjust your prompts. 
+> The responses and not deterministic and you might need to adjust your prompts. 
 
 Example 1 - Missing data imputation
 -----------
@@ -28,9 +28,13 @@ Example 2 - Importing, processing, and visualizing asset data
 
 Upload the [pipes and junctions files](data)
 
-> **User:** *plot the pipes and the junctions*.
+> **User:** *open the zip files and examine the files*.
 
-> **ChatGPT:** *Here is the plot of the flow data over time based on the provided dataset.*
+> **ChatGPT:** *the contents of the zip files are as follows: ...These files are components of shapefiles typically used in geographic information systems (GIS) for mapping and spatial analysis. Would you like to explore the data within these files further? ​.*
+
+
+
+
 <!-- 
 
 Upload the [flow excel file](data)
