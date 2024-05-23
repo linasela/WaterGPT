@@ -15,7 +15,7 @@ Upload the [flow excel file](data)
 
 > **User:** fill in the missing flow data based on the daily pattern, plot again, and indicate the filled in data using red color
 
-![output2](data/flow_missing_data_output1.png)
+![output2](data/flow_missing_data_output2.png)
 <!-- 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
