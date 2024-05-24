@@ -52,6 +52,12 @@ Upload the [meters file](data)
 
 > <img src="data/GIS_output3.png" alt="output3" width="700" height="300">
 
+> **User:** *I want to associate each meter with its closest pipe. Add a line perpendicular to the pipe*.
+
+> **ChatGPT:** *The plot now includes gray lines connecting each water meter to its closest pipe with a perpendicular connection*.
+
+> <img src="data/GIS_output4.png" alt="output4" width="700" height="300">
+
 <!-- 
 
 Upload the [flow excel file](data)
