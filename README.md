@@ -58,6 +58,12 @@ Upload the [meters file](data)
 
 > <img src="data/GIS_output4.png" alt="output4" width="700" height="300">
 
+> **User:** *Save a file with the closest junction and pipe for each meter*.
+
+> **ChatGPT:** *The associations between meters, closest junctions, and closest pipes have been saved to a CSV file. You can download it using the link below:*
+
+[meter_associations.csv](data/meter_associations.csv)
+
 <!-- 
 
 Upload the [flow excel file](data)
