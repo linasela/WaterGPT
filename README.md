@@ -44,7 +44,7 @@ Upload the [meters file](data)
 
 > **ChatGPT:** *Here is the updated plot, now including the water meters. The green "x" markers represent the meters, alongside the blue pipes and red junctions*.
 
-> <img src="data/GIS_output1.png" alt="output2" width="700" height="300">
+> <img src="data/GIS_output2.png" alt="output2" width="700" height="300">
 
 <!-- 
 
