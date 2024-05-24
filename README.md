@@ -28,16 +28,19 @@ Example 2 - Importing, processing, and visualizing asset data
 
 Upload the [pipes and junctions files](data)
 
-> **User:** *open the zip files and examine the files*.
+> **User:** *Open the zip files and examine the files*.
 
 > **ChatGPT:** *the contents of the zip files are as follows: ...These files are components of shapefiles typically used in geographic information systems (GIS) for mapping and spatial analysis. Would you like to explore the data within these files further? ​.*
 
-> **User:** *...*.
+> **User:** *Plot the water pipes and junctions*.
 
-> **ChatGPT:** *...*
+> **ChatGPT:** *Here is the plot showing the water pipes and junctions. The blue lines represent the pipes, and the red dots represent the junctions*.
 
 > <img src="data/GIS_output1.png" alt="output1" width="700" height="300">
 
+Upload the [meters file](data)
+
+> **User:** *This is a water meters layer. Load the file and add the meters to the plot*.
 
 <!-- 
 
