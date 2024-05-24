@@ -1,8 +1,8 @@
 
 # WaterGPT
-examples for AI use in water operations.
+Examples of AI use in water operations.
 > [!NOTE]
-> The responses and not deterministic and you might need to adjust your prompts. 
+> The responses are not deterministic; you might need to adjust your prompts. 
 
 Example 1 - Missing data imputation
 -----------
