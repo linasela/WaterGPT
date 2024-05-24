@@ -36,7 +36,7 @@ Upload the [pipes and junctions files](data)
 
 > **ChatGPT:** *Here is the plot showing the water pipes and junctions. The blue lines represent the pipes, and the red dots represent the junctions*.
 
-> <img src="data/GIS_output1.png" alt="output1" width="700" height="300">
+> <img src="data/GIS_output1.png" alt="output1" width="700" height="280">
 
 Upload the [meters file](data)
 
@@ -50,13 +50,13 @@ Upload the [meters file](data)
 
 > **ChatGPT:** *The plot now includes gray lines connecting each water meter to its closest junction*.
 
-> <img src="data/GIS_output3.png" alt="output3" width="700" height="300">
+> <img src="data/GIS_output3.png" alt="output3" width="700" height="280">
 
 > **User:** *I want to associate each meter with its closest pipe. Add a line perpendicular to the pipe*.
 
 > **ChatGPT:** *The plot now includes gray lines connecting each water meter to its closest pipe with a perpendicular connection*.
 
-> <img src="data/GIS_output4.png" alt="output4" width="700" height="300">
+> <img src="data/GIS_output4.png" alt="output4" width="700" height="280">
 
 > **User:** *Save a file with the closest junction and pipe for each meter*.
 
