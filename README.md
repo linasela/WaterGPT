@@ -46,6 +46,12 @@ Upload the [meters file](data)
 
 > <img src="data/GIS_output2.png" alt="output2" width="700" height="300">
 
+> **User:** *I want to associate each meter with the closest junction. Plot a gray line connecting the meters with their associated junction*.
+
+> **ChatGPT:** *The plot now includes gray lines connecting each water meter to its closest junction*.
+
+> <img src="data/GIS_output3.png" alt="output3" width="700" height="300">
+
 <!-- 
 
 Upload the [flow excel file](data)
