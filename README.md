@@ -64,6 +64,13 @@ Upload the [meters file](data)
 
 [meter_associations.csv](data/meter_associations.csv)
 
+
+
+Example 3 - Analyzing AMI data
+-----------
+
+
+
 <!-- 
 
 Upload the [flow excel file](data)
@@ -79,19 +86,6 @@ Upload the [flow excel file](data)
 > <img src="data/flow_missing_data_output2.png" alt="output1" width="500" height="300">
 
 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- 
 > [!NOTE]
