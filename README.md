@@ -42,6 +42,10 @@ Upload the [meters file](data)
 
 > **User:** *This is a water meters layer. Load the file and add the meters to the plot*.
 
+> **ChatGPT:** *Here is the updated plot, now including the water meters. The green "x" markers represent the meters, alongside the blue pipes and red junctions*.
+
+> <img src="data/GIS_output1.png" alt="output2" width="700" height="300">
+
 <!-- 
 
 Upload the [flow excel file](data)
