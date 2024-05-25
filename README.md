@@ -72,13 +72,25 @@ Upload the [consumers data](data)
 
 > **User:** *Load and describe the data*.
 
-> **ChatGPT:** *the contents of the zip files are as follows: ...These files are components of shapefiles typically used in geographic information systems (GIS) for mapping and spatial analysis. Would you like to explore the data within these files further? ​.*
+> **ChatGPT:** *The data from the sheet "Demand May" consists of the following columns: ..​.*
 
 > **User:** *Sum over different meter numbers and plot the total demand over time*.
 
-> **ChatGPT:** *Here is the plot showing the water pipes and junctions. The blue lines represent the pipes, and the red dots represent the junctions*.
+> **ChatGPT:** *The plot above shows the total demand over time, summing the demand values across different meter numbers...*.
 
-> <img src="data/GIS_output1.png" alt="output1" width="700" height="280">
+> <img src="data/AMIoutput1.png" alt="output1" width="600" height="350">
+
+> **User:** *Show the mean demand profile for 24 hours for different days of the week*.
+
+> **ChatGPT:** *The plot illustrates the mean demand profile for 24 hours across different days of the week. Each line represents a day of the week, showing the average demand at each hour. ...*.
+
+> <img src="data/AMIoutput2.png" alt="output1" width="600" height="350">
+
+
+
+
+
+
 
 
 <!-- 
@@ -93,7 +105,7 @@ Upload the [flow excel file](data)
 
 > **User:** fill in the missing flow data based on the daily pattern, plot again, and indicate the filled in data using red color
 
-> <img src="data/flow_missing_data_output2.png" alt="output1" width="500" height="300">
+> <img src="data/flow_missing_data_output2.png" alt="output1" width="450" height="300">
 
 -->
 
