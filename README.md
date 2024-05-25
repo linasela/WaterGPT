@@ -86,6 +86,11 @@ Upload the [consumers data](data)
 
 > <img src="data/AMIoutput2.png" alt="output1" width="600" height="350">
 
+> **User:** *This data is from Ein Mahil is an Arab local council in Israel, it has a population of 13,931, the majority of which are Muslims. Can you explain the early peak on Friday?*.
+
+> **ChatGPT:** *The early peak in demand on Friday can be attributed to the cultural and religious practices of the Muslim community in Ein Mahil. For Muslims, Friday is considered a holy day, known as Jumu'ah. It involves special congregational prayers (Jumu'ah prayers) that take place around midday.  ...*.
+
+
 
 > **User:** *Make boxplot for different hours of the day, remove outlier*.
 
