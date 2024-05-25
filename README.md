@@ -68,7 +68,17 @@ Upload the [meters file](data)
 
 Example 3 - Analyzing AMI data
 -----------
+Upload the [consumers data](data)
 
+> **User:** *Load and describe the data*.
+
+> **ChatGPT:** *the contents of the zip files are as follows: ...These files are components of shapefiles typically used in geographic information systems (GIS) for mapping and spatial analysis. Would you like to explore the data within these files further? ​.*
+
+> **User:** *Sum over different meter numbers and plot the total demand over time*.
+
+> **ChatGPT:** *Here is the plot showing the water pipes and junctions. The blue lines represent the pipes, and the red dots represent the junctions*.
+
+> <img src="data/GIS_output1.png" alt="output1" width="700" height="280">
 
 
 <!-- 
