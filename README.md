@@ -13,13 +13,13 @@ Upload the [flow excel file](data)
 
 > **ChatGPT:** *Here is the plot of the flow data over time based on the provided dataset.*
 
-> <img src="data/flow_missing_data_output1.png" alt="output1" width="500" height="300">
+> <img src="data/flow_missing_data_output1.png" alt="output1" width="600" height="300">
 
 > **User:** fill in the missing flow data based on the daily pattern, plot again, and indicate the filled in data using red color
 
 > **ChatGPT:** *Here is the updated plot showing the flow data over time, with missing values filled based on the daily pattern.* 
 
-> <img src="data/flow_missing_data_output2.png" alt="output1" width="500" height="300">
+> <img src="data/flow_missing_data_output2.png" alt="output1" width="600" height="300">
 
 
 
@@ -78,7 +78,7 @@ Upload the [consumers data](data)
 
 > **ChatGPT:** *The plot above shows the total demand over time, summing the demand values across different meter numbers...*.
 
-> <img src="data/AMIoutput1.png" alt="output1" width="600" height="350">
+> <img src="data/AMIoutput1.png" alt="output1" width="650" height="350">
 
 > **User:** *Show the mean demand profile for 24 hours for different days of the week*.
 
@@ -87,9 +87,36 @@ Upload the [consumers data](data)
 > <img src="data/AMIoutput2.png" alt="output1" width="600" height="350">
 
 
+> **User:** *Make boxplot for different hours of the day, remove outlier*.
+
+> **ChatGPT:** *The box plot above shows the demand distribution for each hour of the day, with outliers removed.  ...*.
+
+> <img src="data/AMIoutput3.png" alt="output1" width="600" height="350">
 
 
+> **User:** *Repeat and remove negative values*.
 
+> **ChatGPT:** *The box plot now shows the demand distribution for each hour of the day, with outliers and negative values removed ...*.
+
+> <img src="data/AMIoutput4.png" alt="output1" width="600" height="350">
+
+> **User:** *Make histogram of average daily demands of the users, remove outliers and negative values*.
+
+> **ChatGPT:** *The histogram now shows the distribution of average daily demands for users, with both outliers and negative values removed ...*.
+
+> <img src="data/AMIoutput5.png" alt="output1" width="650" height="300">
+
+> **User:** *Make boxplot of mean daily demand for top 10 users, remove negative values and outliers*.
+
+> **ChatGPT:** *The box plot displays the mean daily demand for the top 10 users, with outliers and negative values removed ...*.
+
+> <img src="data/AMIoutput6.png" alt="output1" width="650" height="350">
+
+> **User:** *Make boxplot of total daily demand for top 10 users, remove negative values and outliers*.
+
+> **ChatGPT:** *The box plot displays the total daily demand for the top 10 users, with outliers and negative values removed ...*.
+
+> <img src="data/AMIoutput7.png" alt="output1" width="650" height="350">
 
 
 
