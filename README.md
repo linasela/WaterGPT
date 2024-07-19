@@ -7,7 +7,7 @@ Examples of AI use in water operations.
 Example 1 - Missing data imputation
 -----------
 
-Upload the [flow excel file](data)
+Upload the [flow excel file](data/flow_missing_data.xlsx)
 
 > **User:** *plot the attached data*.
 
