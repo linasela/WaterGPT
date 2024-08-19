@@ -117,13 +117,6 @@ Upload the [consumers data](data)
 
 > <img src="data/AMIoutput6.png" alt="output1" width="650" height="350">
 
-> **User:** *Make boxplot of total daily demand for top 10 users, remove negative values and outliers*.
-
-> **ChatGPT:** *The box plot displays the total daily demand for the top 10 users, with outliers and negative values removed ...*.
-
-> <img src="data/AMIoutput7.png" alt="output1" width="650" height="350">
-
-
 
 <!-- 
 
