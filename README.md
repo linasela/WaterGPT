@@ -23,7 +23,7 @@ Upload the [flow excel file](data/flow_missing_data.xlsx)
 
 Validation
 -----------
-Validation of results in [Excel](data/example1_flow_original_missing_filled data.xlsx).
+Validation of results in [Excel](data/example1_flow_original_missing_filled data.xlsx). 
 
 
 
