@@ -121,7 +121,7 @@ Upload the [consumers data](data)
 > <img src="data/AMIoutput6.png" alt="output1" width="650" height="350">
 
 
-+ Steps to validate the results in [Excel](https://utexas.box.com/shared/static/ya56kmg581fqz8oek60yljlcf0yhgyfa.xlsx).
++ Validation of results in [Excel](https://utexas.box.com/shared/static/ya56kmg581fqz8oek60yljlcf0yhgyfa.xlsx).
 
 <!-- 
 
