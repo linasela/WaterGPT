@@ -21,9 +21,7 @@ Upload the [flow excel file](data/flow_missing_data.xlsx)
 
 > <img src="data/flow_missing_data_output2.png" alt="output1" width="600" height="300">
 
-Validation
------------
-Validation of results in [Excel](data/example1_flow_original_missing_filled_data.xlsx). 
++ Validation of results in [Excel](data/example1_flow_original_missing_filled_data.xlsx). 
 
 
 
@@ -68,6 +66,7 @@ Upload the [meters file](data)
 
 [meter_associations.csv](data/meter_associations.csv)
 
++ Steps to validate the results in [ArcGIS](data/example2_FIS_write-up.docx). 
 
 
 Example 3 - Analyzing AMI data
