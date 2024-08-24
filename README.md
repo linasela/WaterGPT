@@ -21,6 +21,8 @@ Upload the [flow excel file](data/flow_missing_data.xlsx)
 
 > <img src="data/flow_missing_data_output2.png" alt="output1" width="600" height="300">
 
+> **Validation:** Validation of results in [Excel].(data/example1_flow_original_missing_filled data.xlsx)
+
 
 
 Example 2 - Importing, processing, and visualizing asset data
