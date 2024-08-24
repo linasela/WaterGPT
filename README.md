@@ -66,7 +66,7 @@ Upload the [meters file](data)
 
 [meter_associations.csv](data/meter_associations.csv)
 
-+ Steps to validate the results in [ArcGIS](data/example2_FIS_write-up.docx). 
++ Steps to validate the results in [ArcGIS](data/example2_GIS_write-up.docx). 
 
 
 Example 3 - Analyzing AMI data
